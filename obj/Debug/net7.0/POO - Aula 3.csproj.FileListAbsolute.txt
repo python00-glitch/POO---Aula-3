@@ -1,0 +1,15 @@
+C:\Users\rosel\OneDrive\Documentos\Estudos DIO\Estudos C# - DIO\POO - Aula 3\bin\Debug\net7.0\POO - Aula 3.exe
+C:\Users\rosel\OneDrive\Documentos\Estudos DIO\Estudos C# - DIO\POO - Aula 3\bin\Debug\net7.0\POO - Aula 3.deps.json
+C:\Users\rosel\OneDrive\Documentos\Estudos DIO\Estudos C# - DIO\POO - Aula 3\bin\Debug\net7.0\POO - Aula 3.runtimeconfig.json
+C:\Users\rosel\OneDrive\Documentos\Estudos DIO\Estudos C# - DIO\POO - Aula 3\bin\Debug\net7.0\POO - Aula 3.dll
+C:\Users\rosel\OneDrive\Documentos\Estudos DIO\Estudos C# - DIO\POO - Aula 3\bin\Debug\net7.0\POO - Aula 3.pdb
+C:\Users\rosel\OneDrive\Documentos\Estudos DIO\Estudos C# - DIO\POO - Aula 3\obj\Debug\net7.0\POO - Aula 3.csproj.AssemblyReference.cache
+C:\Users\rosel\OneDrive\Documentos\Estudos DIO\Estudos C# - DIO\POO - Aula 3\obj\Debug\net7.0\POO - Aula 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rosel\OneDrive\Documentos\Estudos DIO\Estudos C# - DIO\POO - Aula 3\obj\Debug\net7.0\POO - Aula 3.AssemblyInfoInputs.cache
+C:\Users\rosel\OneDrive\Documentos\Estudos DIO\Estudos C# - DIO\POO - Aula 3\obj\Debug\net7.0\POO - Aula 3.AssemblyInfo.cs
+C:\Users\rosel\OneDrive\Documentos\Estudos DIO\Estudos C# - DIO\POO - Aula 3\obj\Debug\net7.0\POO - Aula 3.csproj.CoreCompileInputs.cache
+C:\Users\rosel\OneDrive\Documentos\Estudos DIO\Estudos C# - DIO\POO - Aula 3\obj\Debug\net7.0\POO - Aula 3.dll
+C:\Users\rosel\OneDrive\Documentos\Estudos DIO\Estudos C# - DIO\POO - Aula 3\obj\Debug\net7.0\refint\POO - Aula 3.dll
+C:\Users\rosel\OneDrive\Documentos\Estudos DIO\Estudos C# - DIO\POO - Aula 3\obj\Debug\net7.0\POO - Aula 3.pdb
+C:\Users\rosel\OneDrive\Documentos\Estudos DIO\Estudos C# - DIO\POO - Aula 3\obj\Debug\net7.0\POO - Aula 3.genruntimeconfig.cache
+C:\Users\rosel\OneDrive\Documentos\Estudos DIO\Estudos C# - DIO\POO - Aula 3\obj\Debug\net7.0\ref\POO - Aula 3.dll
